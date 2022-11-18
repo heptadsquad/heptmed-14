@@ -1,0 +1,62 @@
+                                                                             SRS DOCUMENT
+                                                          
+                                                                               HEPTMED
+
+REQUIREMENTS :
+      
+       1. Identify buisness goals,expectations and requirements that express the objectives and desired outcomesof our website.
+    
+       2.functional requirements.
+
+       3.stakeholders requirements.
+
+       4.technical requirements.
+
+       5.pharmacy license.
+
+       6.drugs supplier.
+
+       7.consultant.
+
+       8.GPS
+
+       9.prioratise and update.
+     
+       
+~ PROCEDURE TO OPEN AN ONLINE PHARMACY :
+
+      # Seller registration at existing e-pharmacy.
+
+      # for own website or app.
+
+~ ONLINE PHARMACY REGISTRATION AND LICENCE REQUIREMENTS :
+
+      # Retail drug licence
+
+      # Requirements and documents for setting up online pharmacy.
+
+      # Goods and service tax numbers (GST)
+
+~ RETAIL DRUG LICENCE :
+
+      Retail drug license is issued by District Drug Control Officer who provide drug license as per guidelines issued by State Drug Control Officer. 
+You need to visit district drug control office for applying retail drug license number. Procedure for applying 
+retail drug license may be online or offline as per state policy, you are going to apply.
+
+~ REQUIREMENTS AND DOCUMENTS FOR SETTING UP ONLINE PHARMACY :
+
+     # Area required: Minimum of 100 square feet
+      
+     # Registered Pharmacist: All related documents photocopy will be attached along with Drug License application form
+      
+     # Rent agreement or ownership proof of premises
+       
+     # Blue print of premises (3 copies)
+
+     # Address Proof of Premises
+
+     # Refrigerator and Air conditional Purchase bill.
+
+            
+
+
